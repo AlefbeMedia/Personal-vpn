@@ -6,7 +6,7 @@
 
 لاگین کردن به سرور با نرم افزار putty و اجرای دستور زیر:
 
-cd /tmp/ && yum install git -y && git clone https://github.com/AlefbeMedia/Personal-vpn.git && cd OPEN-VPN-ACCESS-SERVER/ && sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh && ./centos7.sh 
+cd /tmp/ && yum install git -y && git clone https://github.com/AlefbeMedia/Personal-vpn.git && cd Personal-vpn/ && sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh && ./centos7.sh 
 
 دستورات زیر برای اضافه کردن کاربر به سرور:
 
