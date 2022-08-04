@@ -13,4 +13,4 @@ cd /tmp/ && yum install git -y && git clone https://github.com/AlefbeMedia/Perso
 useradd [username]
 passwd [username]
 
-با لایک و کامنت این ویدیو از ما حمایت کنید
+با لایک و کامنت این ویدیو از ما حمایت کنید.
