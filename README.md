@@ -10,7 +10,7 @@ cd /tmp/ && yum install git -y && git clone https://github.com/AlefbeMedia/Perso
 
 دستورات زیر برای اضافه کردن کاربر به سرور:
 
-useradd yourusername
-passwd yourpassword
+useradd [username]
+passwd [username]
 
 با لایک و کامنت این ویدیو از ما حمایت کنید
