@@ -1,9 +1,6 @@
-
-// Ali Kheiri
-
 {
   "log": {
-    "loglevel": "warning", "dnsLog": false, "access": "none"
+    "loglevel": "warning", "dnsLog": false, "access": "none" // Ali Kheiri
   },
 
   "dns":{
