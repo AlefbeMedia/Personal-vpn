@@ -1,3 +1,5 @@
+// Ali Kheiri
+
 {
   "log": {
     "loglevel": "warning", "dnsLog": false, "access": "none"
@@ -142,7 +144,7 @@
       {"outboundTag": "dns-out",
        "inboundTag": ["socks-in"], "port": 53
       },
-      {"outboundTag": "chain1-fragment",  
+      {"outboundTag": "chain1-fragment",  // or "super-fragment"
        "inboundTag": ["dns-query"]
       },
       {"outboundTag": "block",
@@ -160,7 +162,7 @@
       {"outboundTag": "udp-noises",
        "network": "udp"
       },
-      {"outboundTag": "chain1-fragment",  
+      {"outboundTag": "chain1-fragment",  // or "super-fragment"
        "network": "tcp"
       }
     ]
